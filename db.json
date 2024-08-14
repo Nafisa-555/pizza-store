@@ -1,0 +1,69 @@
+{
+    "pizza":[
+        {
+            "id":1,
+            "image":"https://media1.agfg.com.au/images/listing/85266/hero-400.jpg",
+            "name":"Peppy Paneer Pizza",
+            "price":399,
+            "description":"The peppy paneer pizza is made with fresh and soft paneer with crispy capsicum and topped with spicy red pepper."
+            
+        },
+        {
+            "id":2,
+            "image":"https://www.onestalove.in/wp-content/uploads/2021/08/onesta_menu_Peppy_Paneer_Tikka.png",
+            "name":"Peppy panner",
+            "price":299,
+             "description":"The peppy paneer pizza is made with fresh and soft paneer with crispy capsicum and topped with spicy red pepper."
+        },
+        {
+            "id":3,
+            "image":"https://cinquecentopizzeria.com/wp-content/uploads/2023/05/traditional-italian-pizza.jpeg",
+            "name":"Italian Pizza",
+            "price":399,
+             "description":"Italian pizzas are hearty, flavorful, and savory."
+        },
+        {
+            "id":4,
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwWKgdgkAbOccfylu8zUcEVHEKvgw3OVZ3EcYpr4tO3Lw7ije",
+            "name":"Mexican Green Wave",
+            "price":299,
+             "description":"Onion, Crisp Capsicum, Fresh Tomato & Jalapeno sprinkled with exotic Mexican Herbs."
+        },
+        {
+            "id":5,
+            "image":"https://media.istockphoto.com/id/1168754685/photo/pizza-margarita-with-cheese-top-view-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=psLRwd-hX9R-S_iYU-sihB4Jx2aUlUr26fkVrxGDfNg=",
+            "name":"Margherita pizza",
+            "price":150,
+             "description":"Single Cheese Topping."
+        },
+        {
+            "id":6,
+            "image":"https://www.onestalove.in/wp-content/uploads/2021/08/onesta_menu_Peppy_Paneer_Tikka.png,",
+            "name":"Farmhouse Pizza",
+            "price":350,
+             "description":"Onion, Crisp Capsicum, Mushroom & Fresh Tomato."
+        },
+        {
+            "id":7,
+            "image":"https://i.pinimg.com/736x/7d/a7/b1/7da7b18d0e597dee281a899842d7d2f7.jpg",
+            "name":"VEG LOADED",
+            "price":250,
+             "description":"Fresh Tomato I Jalapeno I Mushroom I Crispy Beans I Bake Sprinkle"
+        },
+        {
+            "id":8,
+            "image":"https://i.pinimg.com/474x/7f/6f/98/7f6f98e49f73517f8c2b81d055aa71d2.jpg",
+            "name":"Cloud 9 Pizza",
+            "price":350,
+             "description":"Onion, Tomato, Babycorn, Paneer, Crisp Capsicum & Jalapeno."
+        },
+        {
+            "id":9,
+            "image":"https://cdn.dotpe.in/longtail/store-items/7572019/c7k58Ehe.jpeg",
+            "name":"Veg Extravaganza pizza",
+            "price":499,
+             "description":"Black Olives, Onion, Crisp Capsicum, Mushroom, FreshTomato, Golden Corn, Jalapeno & Extra Cheese."
+        }
+     ]
+ }
+ 
